@@ -1,0 +1,16 @@
+# 忽略编译生成的文件
+*.exe
+*.o
+*.obj
+*.out
+
+# 忽略VSCode临时文件
+tempCodeRunnerFile.c
+
+# 忽略编译输出目录
+build/
+Debug/
+Release/
+
+# 忽略日志文件
+*.log
